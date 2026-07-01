@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FLIP_SIM_V2/FLIP_SIM_V2.vcxproj" Id="3fae1bd5-6fa1-41c2-8188-30261491bed5" />
+</Solution>
